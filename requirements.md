@@ -94,6 +94,12 @@
    - View customer appointment history
    - Send customer reminders and notifications
 
+9. **Payment & Financial Management**
+   - Payment Gateway Integration
+   - Invoice Generation
+   - Refund Processing System
+   - Recurring Billing for subscription services
+
 ## Technical Requirements
 
 1. **Frontend**:
