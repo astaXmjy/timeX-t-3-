@@ -74,6 +74,9 @@
 5. **Notifications**:
    - Email and SMS notifications
    - In-app notifications
+   - Travel Time Alerts
+   - Documentation Alers
+   - Weather Alerts
 
 6. **Calendar Integration**:
    - Sync with Google Calendar, Outlook, and Apple Calendar
